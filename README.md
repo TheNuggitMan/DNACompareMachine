@@ -1,0 +1,1 @@
+A DNA comparing machine, which creates independant organism's and allows you to compare their DNA strands with one another, and determine how likely they are to survive based on what percentage of particular DNA markers the organism has.
